@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pi7447",
-    version="1.0.0",
+    version="1.0.1",
     author="Philip Huang",
     author_email="p208p2002@gmail.com",
     description="7447 lib for raspberry pi",
