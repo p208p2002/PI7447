@@ -1,10 +1,10 @@
 # Pi7447
 7447 lib for raspberry pi
 
-# Install
+## Installation
 `pip install pi7447`
 
-# Usage example
+## Usage example
 ```
 import pi7447
 import time
