@@ -18,7 +18,7 @@ IC7447_INPUT_D = 17
 
 sevenSegmentSisplay = pi7447.IC7447(IC7447_INPUT_A,IC7447_INPUT_B,IC7447_INPUT_C,IC7447_INPUT_D)
 
-#show 1 to 9
+#show 0 to 9
 for i in range(10):
     sevenSegmentSisplay.show(i)
     time.sleep(0.5)
